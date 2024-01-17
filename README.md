@@ -1,5 +1,5 @@
 # InferEM
-The repository is the official implementation of the paper "[InferEM: Inferring the speaker’s intention for empathetic dialogue generation](https://escholarship.org/uc/item/0dk8x579)", which has been accepted by the 44th Annual Meeting of the Cognitive Science Society (CogSci 2023).  
+The official implementation of the paper "[InferEM: Inferring the speaker’s intention for empathetic dialogue generation](https://escholarship.org/uc/item/0dk8x579)", which has been accepted by the 44th Annual Meeting of the Cognitive Science Society (CogSci 2023).  
 Authors: Guoqing Lv†, Jiang Li†, Xiaoping Wang, Zhigang Zeng († Equal Contribution)  
 Affiliation: Huazhong University of Science and Technology (HUST)  
 
@@ -12,6 +12,12 @@ Affiliation: Huazhong University of Science and Technology (HUST)
     journal = {Proceedings of the 44th Annual Meeting of the Cognitive Science Society},
     pages = {1906--1913},
 }
+```
+
+## Requirement
+Checking and installing environmental requirements
+```python
+pip install -r requirements.txt
 ```
 
 ## Acknowledgement
